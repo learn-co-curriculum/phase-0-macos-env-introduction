@@ -10,13 +10,13 @@ A **software environment** describes the set of tools that work together to enab
 
 ### Comparing environments with machines
 
-You may hear us use the term "software environment" and "machine" to mean similar things. A **machine** describes the physical hardware that your software environment runs on. You'll hear the term machine and computer used interchangeably. Different machines (like PCs and Macs) use different hardware to run the programs that they use. Differences in those machines mean that setting up your development environmnent on one type of machine could look much different than setting it up on another.
+You may hear us use the term "software environment" and "machine" to mean similar things. A **machine** describes the physical hardware that your software environment runs on. You'll hear the term machine and computer used interchangeably. Different machines (like PCs and Macs) use different hardware to run the programs that they use. Differences in those machines mean that setting up your development environment on one type of machine could look much different than setting it up on another.
 
 ### macOS Operating System
 
 In order to work around some of the differences between machines, and specifically between operating systems, we recommend that all students whose computers come pre-installed with the Windows operating system use a tool called **Windows Subsystem for Linux (WSL)**. Windows Subsystem for Linux provides a Linux-based environment for interfacing with and developing on a Windows operating system.
 
-**macOS** is a UNIX-based operating system. UNIX-based operating systems are very commonly used in professional software engineering settings. Learning how to use a UNIX-based operating system will be a valuable skill for your future software engineering career. You may have heard of other UNIX-based operating systems like Ubuntu, Debian, or Fedora, which share a which include the Linux kernel (core software). These types of operating systems work simiilarly.
+**macOS** is a UNIX-based operating system. UNIX-based operating systems are very commonly used in professional software engineering settings. Learning how to use a UNIX-based operating system will be a valuable skill for your future software engineering career. You may have heard of other UNIX-based operating systems like Ubuntu, Debian, or Fedora, which share a which include the Linux kernel (core software). These types of operating systems work similarly.
 
 ### Terminals and shells
 
