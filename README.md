@@ -30,11 +30,11 @@ Similar to operating systems, there are many different types of shells. The shel
 
 ### macOS Terminal
 
-The “Terminal” application is a text-based way to browse and work with files on your computer. We will be using the “Terminal” application during the environment setup and the duration of the program. For now, let's start to see what "Terminal" and more generally, **shell**s can do.
+The "Terminal" application is a text-based way to browse and work with files on your computer. We will be using the "Terminal" application during the environment setup and the duration of the program. For now, let's start to see what "Terminal" and more generally, **shell**s can do.
 
 ## Action items: view your desktop in "Finder" and "Terminal" applications
 
-In order to complete the environment setup, you will need to be able to open applications. You can open new applications by using the search bar at the bottom of your screen. The search bar says “Type here to search”.
+In order to complete the environment setup, you will need to be able to open applications. You can open new applications by using the search bar at the bottom of your screen. The search bar says "Type here to search".
 
 ### View your desktop in the "Finder"
 
@@ -42,7 +42,7 @@ The "Finder" application is a visual way to browse the files on your computer. Y
 
 1. Click on the "Spotlight Search" magnifying glass icon in the top-right corner of your window
 2. Type "Finder" and open the application
-3. Find and open the “Desktop” folder in your "Finder" application
+3. Find and open the "Desktop" folder in your "Finder" application
 
 ### View your desktop in the "Command Prompt" shell
 
@@ -54,9 +54,9 @@ The "Terminal" application is the terminal that will allow us to interface with 
 4. Look for your username in the list
 5. Type `cd` into the terminal, add a space, and type your name as it appears in the list and press `<Enter>`
 6. Type `ls` into the terminal and press `<Enter>`
-7. Look for the “Desktop” folder in the list
+7. Look for the "Desktop" folder in the list
 8. Type `cd Desktop` into the terminal and press `<Enter>`
-9. Type `ls` into the terminal and press `<Enter>` (Note: if prompted, allow "Terminal" to access files in your Desktop folder.)
+9. Type `ls` into the terminal and press `<Enter>` _(Note: if prompted, allow "Terminal" to access files in your Desktop folder.)_
 
 ### Check your work
 
