@@ -120,13 +120,13 @@ application _and_ through the "Terminal" application.
 
 ## Preparing for Your Environment Setup
 
-* During the environment setup, you will be spending a lot of time in the
-  "Ubuntu" application.
+* During the environment setup, you will be spending a lot of time in your 
+  "Terminal" application.
 * As much as possible, copy and paste commands that we ask you to run there
   instead of typing by hand to prevent environment setup issues.
 * Specific keys that you need to press will be surrounded by  `<` `>` (for
   example, `<Shift>`, `<Space>`, `<Enter>`).
 * You will need to be comfortable switching between windows; we will primarily
-  be using the browser and the "Ubuntu" application.
+  be using the browser and the "Terminal" application.
 * You should be able to start and stop the environment setup.
 * If you get stuck, reach out to your classmates or an instructor.
