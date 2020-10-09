@@ -24,7 +24,7 @@ different than setting it up on another.
 
 ### macOS Operating System
 
-In order to work around some of the differences between machines, and
+To work around some of the differences between machines, and
 specifically between operating systems, we recommend that all students whose
 computers come pre-installed with the Windows operating system use a tool called
 **Windows Subsystem for Linux (WSL)**. Windows Subsystem for Linux provides a
@@ -33,10 +33,10 @@ operating system.
 
 **macOS** is a UNIX-based operating system. UNIX-based operating systems are
 very commonly used in professional software engineering settings. Learning how
-to use a UNIX-based operating system will be a valuable skill for your future
-software engineering career. You may have heard of other UNIX-based operating
-systems like Ubuntu, Debian, or Fedora, which share a which include the Linux
-kernel (core software). These types of operating systems work similarly.
+to use a UNIX-based operating system will be valuable for your future software
+engineering career. You may have heard of other UNIX-based operating systems
+like Ubuntu, Debian, or Fedora, which share a which include the Linux kernel
+(core software). These types of operating systems work similarly.
 
 ### Terminals and Shells
 
@@ -71,9 +71,9 @@ what "Terminal" and more generally, **shell**s can do.
 
 ## View Your Desktop in "Finder" and "Terminal" Applications
 
-In order to complete the environment setup, you will need to be able to open
+To complete the environment setup, you will need to be able to open
 applications. You can open new applications by using the search bar at the
-bottom of your screen. The search bar says "Type here to search".
+bottom of your screen. The search bar says, "Type here to search".
 
 ### Action Item: View Your Desktop in the "Finder"
 
@@ -123,7 +123,7 @@ application _and_ through the "Terminal" application.
 * During the environment setup, you will be spending a lot of time in the
   "Ubuntu" application.
 * As much as possible, copy and paste commands that we ask you to run there
-  instead of typing by hand, to try to prevent environment setup issues.
+  instead of typing by hand to prevent environment setup issues.
 * Specific keys that you need to press will be surrounded by  `<` `>` (for
   example, `<Shift>`, `<Space>`, `<Enter>`).
 * You will need to be comfortable switching between windows; we will primarily
