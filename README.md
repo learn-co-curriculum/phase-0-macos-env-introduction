@@ -1,4 +1,4 @@
-# macOS Environment Setup
+# Introduction to macOS Environment Setup
 
 In this module, we will walk through the process of setting up your macOS local development environment.
 
@@ -32,11 +32,11 @@ Similar to operating systems, there are many different types of shells. The shel
 
 The "Terminal" application is a text-based way to browse and work with files on your computer. We will be using the "Terminal" application during the environment setup and the duration of the program. For now, let's start to see what "Terminal" and more generally, **shell**s can do.
 
-## Action items: view your desktop in "Finder" and "Terminal" applications
+## View your desktop in "Finder" and "Terminal" applications
 
 In order to complete the environment setup, you will need to be able to open applications. You can open new applications by using the search bar at the bottom of your screen. The search bar says "Type here to search".
 
-### View your desktop in the "Finder"
+### Action item: View your desktop in the "Finder"
 
 The "Finder" application is a visual way to browse the files on your computer. You may already be familiar with the "Finder" application. This application allows you to quickly see the files on your desktop, downloads, documents, pictures, music, videos, and much more.
 
@@ -44,7 +44,7 @@ The "Finder" application is a visual way to browse the files on your computer. Y
 2. Type "Finder" and open the application
 3. Find and open the "Desktop" folder in your "Finder" application
 
-### View your desktop in the "Command Prompt" shell
+### Action item: View your desktop in the "Command Prompt" shell
 
 The "Terminal" application is the terminal that will allow us to interface with our computer through a shell. This action item is to primarily get you comfortable running commands in _any_ shell so that you can work through the environment setup on your own.
 
