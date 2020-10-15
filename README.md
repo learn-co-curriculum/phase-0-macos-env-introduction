@@ -108,6 +108,8 @@ environment setup on your own.
 
 ### Check Your Work
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_saQ1GkvpZk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 If you were able to open your desktop in the "Finder" application and you were
 able to open the "Terminal" application and `cd` to your desktop in that
 application, you should see that you can see the same list of files in both the
