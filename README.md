@@ -96,7 +96,7 @@ environment setup on your own.
 
 1. Open the "Terminal" application using the "Spotlight Search"
 2. Type `cd /Users` into the terminal and press `<Enter>`
-3. Type `ls` into the terminal and press `<Enter>`
+3. Type `ls` (lowercase `L` and lowercase `S` together) into the terminal and press `<Enter>` 
 4. Look for your username in the list
 5. Type `cd` into the terminal, add a space, and type your name as it appears in
    the list and press `<Enter>`
