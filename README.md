@@ -1,4 +1,4 @@
-# MacOS Environment Setup
+# Introduction to MacOS Environment Setup
 
 In this module, we will walk through the process of setting up your macOS local
 development environment.
