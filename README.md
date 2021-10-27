@@ -1,4 +1,4 @@
-# Introduction to MacOS Environment Setup
+# Introduction to macOS Environment Setup
 
 In this module, we will walk through the process of setting up your macOS local
 development environment.
@@ -99,7 +99,8 @@ environment setup on your own.
 
 1. Open the "Terminal" application using the "Spotlight Search"
 2. Type `cd /Users` into the terminal and press `<Enter>`
-3. Type `ls` (lowercase `L` and lowercase `S` together) into the terminal and press `<Enter>` 
+3. Type `ls` (lowercase `L` and lowercase `S` together) into the terminal and
+   press `<Enter>`
 4. Look for your username in the list
 5. Type `cd` into the terminal, add a space, and type your name as it appears in
    the list and press `<Enter>`
@@ -111,7 +112,8 @@ environment setup on your own.
 
 ### Check Your Work
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_saQ1GkvpZk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- TODO: replace video -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xoHO4qeo3AA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you were able to open your desktop in the "Finder" application and you were
 able to open the "Terminal" application and `cd` to your desktop in that
@@ -125,13 +127,13 @@ application _and_ through the "Terminal" application.
 
 ## Preparing for Your Environment Setup
 
-* During the environment setup, you will be spending a lot of time in your 
+- During the environment setup, you will be spending a lot of time in your
   "Terminal" application.
-* As much as possible, copy and paste commands that we ask you to run there
+- As much as possible, copy and paste commands that we ask you to run there
   instead of typing by hand to prevent environment setup issues.
-* Specific keys that you need to press will be surrounded by  `<` `>` (for
+- Specific keys that you need to press will be surrounded by `<` `>` (for
   example, `<Shift>`, `<Space>`, `<Enter>`).
-* You will need to be comfortable switching between windows; we will primarily
+- You will need to be comfortable switching between windows; we will primarily
   be using the browser and the "Terminal" application.
-* You should be able to start and stop the environment setup.
-* If you get stuck, reach out to your classmates or an instructor.
+- You should be able to start and stop the environment setup.
+- If you get stuck, reach out to your classmates or an instructor.
