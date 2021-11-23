@@ -75,8 +75,8 @@ what "Terminal" and more generally, **shell**s can do.
 ## View Your Desktop in "Finder" and "Terminal" Applications
 
 To complete the environment setup, you will need to be able to open
-applications. You can open new applications by using the search bar at the
-bottom of your screen. The search bar says, "Type here to search".
+applications. You can open new applications by using the "Spotlight Search"
+magnifying glass icon in the top-right corner of your window.
 
 ### Action Item: View Your Desktop in the "Finder"
 
