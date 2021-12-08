@@ -27,13 +27,6 @@ different than setting it up on another.
 
 ### macOS Operating System
 
-To work around some of the differences between machines, and
-specifically between operating systems, we recommend that all students whose
-computers come pre-installed with the Windows operating system use a tool called
-**Windows Subsystem for Linux (WSL)**. Windows Subsystem for Linux provides a
-Linux-based environment for interfacing with and developing on a Windows
-operating system.
-
 **macOS** is a UNIX-based operating system. UNIX-based operating systems are
 very commonly used in professional software engineering settings. Learning how
 to use a UNIX-based operating system will be valuable for your future software
@@ -52,8 +45,8 @@ many non-technical computer users.
 Before graphical user interfaces (GUIs), the way to tell the computer to do
 something was through a **terminal**. The terminal included a screen, which
 would display only text, and a keyboard. The screen and keyboard were connected
-to a computer and you type into the keyboard what you wanted the computer to do.
-Then, you press `<Enter>` and would wait for the computer to finish.
+to a computer and you typed into the keyboard what you wanted the computer to do.
+Then, you would press `<Enter>` and wait for the computer to finish.
 
 Terminals are still used frequently today, especially in software development.
 We can connect to another computer on the internet, give it instructions by
