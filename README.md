@@ -1,6 +1,6 @@
 # Introduction to MacOS Environment Setup
 
-In this module, we will walk through the process of setting up your macOS local
+In this module, we will walk through the process of setting up your MacOS local
 development environment.
 
 > **Note:** If you are not using a Mac computer for this course, skip the
@@ -25,9 +25,9 @@ to run the programs that they use. Differences in those machines mean that
 setting up your development environment on one type of machine could look much
 different than setting it up on another.
 
-### macOS Operating System
+### MacOS Operating System
 
-**macOS** is a UNIX-based operating system. UNIX-based operating systems are
+**MacOS** is a UNIX-based operating system. UNIX-based operating systems are
 very commonly used in professional software engineering settings. Learning how
 to use a UNIX-based operating system will be valuable for your future software
 engineering career. You may have heard of other UNIX-based operating systems
@@ -55,10 +55,10 @@ computers emulate the terminals of yesterday is through a program called a
 **command-line interface**, or a **shell**.
 
 Similar to operating systems, there are many different types of shells. The
-shell that Flatiron School supports on the macOS operating system is called
+shell that Flatiron School supports on the MacOS operating system is called
 **zsh**, short for Z Shell.
 
-### macOS Terminal
+### MacOS Terminal
 
 The "Terminal" application is a text-based way to browse and work with files on
 your computer. We will be using the "Terminal" application during the
